@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Devops Training</title>
+<body>
+<h1>Welcome !!!</h1>
+</body>
+</head>
+</html>
